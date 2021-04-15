@@ -1,0 +1,114 @@
+.about {
+    background-color: black;
+    height: 100vh;
+    width: 1364px;
+    display: flex;
+    flex-direction: row;
+}
+
+.profile-picture {
+    width: 200px;
+    height: 200px;
+    margin-left: 150px;
+    margin-top: 200px;
+    border-radius: 50%;
+    border: 10px solid #FFE900;
+}
+
+.about-text {
+    margin-left: 130px;
+    margin-top: 50px;
+    color: white;
+}
+
+.about-heading {
+    font-size: 50px;
+    font-weight: 650;
+}
+
+p {
+    font-size: 16px;
+    margin-right: 100px;
+    margin-top: 32px;
+    font-weight: bold;
+}
+
+button {
+    margin-top: 40px;
+    background-color: #FFE900;
+    width: 180px;
+    height: 48px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h3 {
+    margin-top: 48px;
+}
+
+.education {
+    display: flex;
+    flex-direction: row;
+}
+
+.education-line {
+    position: absolute;
+    height: 35px;
+    width: 3px;
+    background-color: #FFE900;
+    margin-top: 40px;
+    margin-left: 16px;
+}
+
+.education-icons {
+    position: relative;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+
+.education-icon-background {
+    background-color: #FFE900;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    margin-bottom: 30px;
+    margin-top: 5px;
+}
+
+.fa-book-open {
+    margin-top: 5px;
+}
+
+.fa-graduation-cap {
+    margin-top: 2px;
+}
+
+.fa-school {
+    margin-top: 2px;
+}
+
+.education-text {
+    color: white;
+    display: flex;
+}
+
+.education-detail {
+    margin-top: 0px;
+    text-align: start;
+}
+
+.education-institute {
+    font-size: 18px;
+    margin-top: 0px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.education-location {
+    margin-top: 0px;
+    font-size: 13px;
+    margin-left: 10px;
+    font-weight: 500;
+}

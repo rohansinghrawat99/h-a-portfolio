@@ -1,0 +1,48 @@
+.side-nav-bar {
+    height: 100vh;
+    width: 3.635rem;
+    position: fixed;
+    background-color: #302E2E;
+}
+
+ul {
+    display: inline;
+    list-style: none;
+}
+
+.side-nav-bar ul li {
+    display: block;
+    padding-left: 1.25rem;
+    margin-top: 0px;
+}
+
+.side-nav-bar ul li:first-child {
+    padding-left: 0.75rem;
+}
+
+.side-nav-bar ul li:last-child {
+}
+
+.side-nav-bar ul li a {
+    color: white;
+    font-weight: 500;
+    text-decoration: none;
+    writing-mode: vertical-rl;
+    margin-top: 1.5625rem;
+    margin-bottom: 2.1875rem;
+}
+
+.side-nav-bar ul li a:hover {
+    color: yellow;
+    text-decoration: underline;
+}
+
+.side-nav-bar ul li a:active {
+    color: yellow;
+    text-decoration: none;
+}
+
+.logo {
+    height: 2.1875rem;
+    width: 2.1875rem;
+}

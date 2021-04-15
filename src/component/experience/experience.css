@@ -1,0 +1,65 @@
+.experience {
+    text-align: center;
+}
+
+.experience-header {
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    font-size: 60px;
+}
+
+.experience-box {
+    border: 2px #FFE900 solid;
+    border-radius: 50px;
+    margin-left: 280px;
+    width: 800px;
+    height: 400px;
+    background-color: #373737;
+    display: flex;
+    justify-content: space-between;
+    text-align: start;
+}
+
+.experience-text {
+    color: white;
+    margin: 30px;
+}
+
+.experience-tech {
+    margin-top: 25px;
+}
+
+.experience-tech-icon {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.experience-responsibilities {
+    font-size: 15px;
+    margin-top: 5px;
+    margin-left: 20px;
+    font-weight: 300;
+}
+
+.experience-tech-name {
+    margin-left: 5px;
+}
+
+.experience-header {
+    font-weight: 500;
+}
+
+.experience-role {
+    margin-top: 5px;
+    font-weight: 300;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.experience-image {
+    margin: 10px;
+    height: 380px;
+    width: 330px;
+}
