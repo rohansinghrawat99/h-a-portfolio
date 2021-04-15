@@ -1,4 +1,9 @@
+.projects {
+    height: 100vh;
+    width: 85.25rem;
+}
+
 .projects-heading {
     font-weight: 650;
-    color: white;
+    color: black;
 }

@@ -1,13 +1,17 @@
 .skills {
     text-align: center;
+    height: 100vh;
+    width: 80rem;
 }
 
 h1 {
+    font-weight: 600;
     color: white;
 }
 
 .all-skills {
-    margin: 100px;
+    margin-top: 7.5rem;
+    margin-left: 3.5rem;
 }
 
 .skill-box {

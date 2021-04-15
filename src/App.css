@@ -4,6 +4,8 @@
 }
 
 .App {
+  height: 100vh;
+  width: 80rem;
   display: flex;
   justify-content: space-between;
 }
@@ -15,8 +17,7 @@ video {
 }
 
 .main-content {
-  margin-left: 3.625rem;
-  width: 85.25rem;
+  width: 80rem;
   background-color: black;
   height: 100vh;
 }
